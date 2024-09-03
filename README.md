@@ -11,6 +11,7 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voizok&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voizok&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voizok&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=voizok&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=voizok&theme=transparent&utcOffset=8)
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=voizok&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=voizok&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
